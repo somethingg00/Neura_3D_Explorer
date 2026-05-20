@@ -343,7 +343,7 @@ function Footer({ theme, scanStatus, totals, addressesCount }) {
             >&lt;/&gt;</a>
             <a
               className="foot-icon"
-              href="https://x.com/Neura_Protocol"
+              href="https://x.com/Neura_io"
               target="_blank"
               rel="noopener noreferrer"
               title="Neura on X"
